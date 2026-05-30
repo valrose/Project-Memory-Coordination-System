@@ -32,7 +32,7 @@ Create an AI-assisted system that:
 
 ## Version History
 
-### Version 1 Scope
+### Version 0.1 
 
 Input:
 

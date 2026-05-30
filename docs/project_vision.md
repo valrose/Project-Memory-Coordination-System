@@ -7,7 +7,7 @@ This document provides an internal overview of the long-term vision for the Proj
 Critical project knowledge is generated through a network of meetings, decisions, risks, dependecies, and stakeholder interactions. 
 As a project grows in complexity, this knowledge becomes fragmented across teams, communicaiton channels, and individual memory. 
 
-The Project Memory & Coordination Systems is an AI-assisted organizations memory platform designed to capture, structure, 
+The Project Memory & Coordination System is an AI-assisted organizations memory platform designed to capture, structure, 
 and distribute project knowledge. This improves knowledge transfer, coordination, commmunication, and operational effectiveness. 
 
 ## Problem Statement 
